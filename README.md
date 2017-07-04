@@ -1,2 +1,2 @@
 # Classifier
-Native Baysian Classifier
+Naive Baysian Classifier
